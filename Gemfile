@@ -15,6 +15,8 @@ gem 'carrierwave'
 gem 'fog'
 gem "figaro"
 gem "mini_magick"
+gem 'devise'
+gem 'linkedin'
 
 
 group :development, :test do
